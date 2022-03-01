@@ -1,4 +1,4 @@
-# Wordl_helper
+# Wordle_helper
 A little helper that filters your dictionary to only contain the words still possible in a given wordl game, and scores those words to shows the word which gives you most information first
 
 # how to use
